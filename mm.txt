@@ -1,0 +1,1 @@
+Please count how many char in this file and how to append text and get directory 
